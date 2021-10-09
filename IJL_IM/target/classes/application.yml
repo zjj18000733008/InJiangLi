@@ -1,0 +1,22 @@
+injiangli:
+  im:
+    server:
+      port: 6668
+
+
+spring:
+  profiles:
+    active: dev
+mybatis-plus:
+  mapper-locations: classpath://mapper/*Mapper.xml
+  type-aliases-package: com.example.im.entity
+
+---
+spring:
+  profiles: dev
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/ijl_im?characterEncoding=UTF-8&autoReconnect=true&useSSL=false
+    username: root
+    password: baidu@123

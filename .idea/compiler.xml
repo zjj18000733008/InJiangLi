@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="IJL_AUTH" />
+        <module name="IJL_IM" />
+        <module name="mybatis-plus-generator" />
+        <module name="IJL_COMMON" />
+        <module name="IJL_IM_Server" />
+        <module name="IJL_GW" />
+        <module name="IJL_OP" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="IJL_AUTH" target="8" />
+      <module name="IJL_COMMON" target="8" />
+      <module name="IJL_GW" target="8" />
+      <module name="IJL_IM" target="8" />
+      <module name="IJL_IM_Server" target="8" />
+      <module name="IJL_OP" target="8" />
+      <module name="InJiangLi" target="8" />
+      <module name="mybatis-plus-generator" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

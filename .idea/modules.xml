@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IJL_AUTH/IJL_AUTH.iml" filepath="$PROJECT_DIR$/IJL_AUTH/IJL_AUTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IJL_COMMON/IJL_COMMON.iml" filepath="$PROJECT_DIR$/IJL_COMMON/IJL_COMMON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IJL_GW/IJL_GW.iml" filepath="$PROJECT_DIR$/IJL_GW/IJL_GW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IJL_IM/IJL_IM.iml" filepath="$PROJECT_DIR$/IJL_IM/IJL_IM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IJL_IM_Server/IJL_IM_Server.iml" filepath="$PROJECT_DIR$/IJL_IM_Server/IJL_IM_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IJL_OP/IJL_OP.iml" filepath="$PROJECT_DIR$/IJL_OP/IJL_OP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/InJiangLi.iml" filepath="$PROJECT_DIR$/.idea/InJiangLi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus-generator/mybatis-plus-generator.iml" filepath="$PROJECT_DIR$/mybatis-plus-generator/mybatis-plus-generator.iml" />
+    </modules>
+  </component>
+</project>
